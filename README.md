@@ -1,1 +1,1 @@
-# Questões em Java, da seção 'Iniciante' do site 'beecrowd.com.br/'
+Questões em Java, da seção 'Iniciante' do site 'beecrowd.com.br/'
