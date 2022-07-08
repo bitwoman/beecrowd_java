@@ -20,11 +20,9 @@ import java.io.IOException;
  * El nombre de la clase debe ser "Main" para que su solución ejecutar
  */
 public class beecrowd_helloworld_1000 {
-
     public static void main(String[] args) throws IOException {
 
         System.out.println("Hello World!");
 
     }
-
 }
