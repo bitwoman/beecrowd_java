@@ -10,8 +10,6 @@
 
  import java.util.Scanner;
 
-import javax.security.sasl.SaslException;
-
 public class beecrowd_difference_1007 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
