@@ -15,7 +15,7 @@ Imprima o tempo necessário seguido da mensagem "minutos" que significa minutos 
  */
 
 
-public class beecrowd_extremelybasic_1016 {
+public class beecrowd_distance_1016 {
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
