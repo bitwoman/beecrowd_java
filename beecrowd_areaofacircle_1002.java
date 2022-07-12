@@ -17,12 +17,12 @@ você receberá "Erro de apresentação".
 public class beecrowd_areaofacircle_1002 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-    
-        double R = input.nextDouble();
-        input.close();
-
-        double A = 3.14159 * (R*R);
         
-        System.out.printf("A=%.4f", A);
+        double n = 3.14159;
+        double R = input.nextDouble();
+        double A = n * (R*R);
+        input.close();
+        
+        System.out.printf("A=%.4f", A);;
     } 
 }
