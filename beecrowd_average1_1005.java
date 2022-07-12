@@ -5,10 +5,6 @@
  contrário você receberá “Erro de apresentação” . Não se esqueça do espaço antes e depois 
  do sinal de igual. 
  */
-
-
-
-
 import java.util.Scanner;
 
 public class beecrowd_average1_1005 {

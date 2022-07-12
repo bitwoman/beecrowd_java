@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /* A fórmula para calcular a área de uma circunferência é definida como A = π . R 2 . 
 Considerando para este problema que π = 3,14159 :
 Calcule a área usando a fórmula dada na descrição do problema.
@@ -13,6 +11,7 @@ quatro casas após a vírgula. Use todas as variáveis ​​de precisão dupla.
 problemas, não se esqueça de imprimir o final de linha após o resultado, caso contrário 
 você receberá "Erro de apresentação". 
  */
+import java.util.Scanner;
 
 public class beecrowd_areaofacircle_1002 {
     public static void main(String[] args) {
